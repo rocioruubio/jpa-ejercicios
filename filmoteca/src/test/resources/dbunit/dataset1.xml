@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <Pelicula idpelicula="1" titulo="Los mundos de Coraline" estreno="2009" presupuesto="60000000" recaudacion="56000000" pais="España" />
+    <Critica idcritica="1" critico="Rocio" texto="Mi nueva pelicula favorita" valoracion="10" id_pelicula="1"/>
+    <Critica idcritica="2" fecha="Fran" texto="Una pelicula maravillosa" valoracion="8,5" id_pelicula="1"/>
+</dataset>

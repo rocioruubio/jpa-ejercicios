@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <Autor autor_id="1" email="antonio.martinez@eoi.es" nombre="Antonio Martinez"
+           version="0"/>
+    <Mensaje mensaje_id="1" fecha="2021-09-01" texto="Hola, colega" autor="1"
+             version="0"/>
+    <Mensaje mensaje_id="2" fecha="2021-09-02" texto="Este es mi segundo mensaje"
+             autor="1" version="0"/>
+</dataset>
