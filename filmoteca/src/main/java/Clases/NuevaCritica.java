@@ -21,6 +21,8 @@ public class NuevaCritica {
     public static void main(String[] args) {
         em.getTransaction().begin();
         try {
+            //hola
+
             NuevaCritica nuevaCritica = new NuevaCritica();
             System.out.println(nuevaCritica.findWithName());
             System.out.println("Escribe el id de la pelicula que quieres agregar criticas: ");
